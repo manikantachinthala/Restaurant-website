@@ -1,3 +1,3 @@
 # Restaurant-website 
-click on the link below:
+click on this link to see the Website:
  https://manikantachinthala.github.io/Restaurant-website/
